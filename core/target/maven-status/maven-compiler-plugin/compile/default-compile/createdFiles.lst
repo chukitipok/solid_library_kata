@@ -1,0 +1,7 @@
+fr\esgi\solid_library_kata\core\models\User.class
+fr\esgi\solid_library_kata\core\models\Library.class
+fr\esgi\solid_library_kata\core\services\UserService.class
+fr\esgi\solid_library_kata\core\services\Books.class
+fr\esgi\solid_library_kata\core\models\Book.class
+fr\esgi\solid_library_kata\core\models\Books.class
+fr\esgi\solid_library_kata\core\services\FileUtils.class
